@@ -1,3 +1,25 @@
+Hello , i have build zomato UI clone using React . 
+
+Pages / Components created : 
+
+1. Header - navigation bar 
+2. Filters 
+3. Top Brands
+4. Collections 
+5. Footer  
+
+
+Technology used : 
+HTML 
+CSS 
+Javascript 
+React 
+React-Slick for carousel 
+Font Awesome icons 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
