@@ -1,0 +1,6 @@
+.delivery-collections{
+    width: 100%; 
+    background-color: var(--inactive-color); 
+    padding: 10px; 
+    height: 300px;
+}

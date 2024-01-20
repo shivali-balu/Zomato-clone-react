@@ -1,0 +1,28 @@
+.top-brands-wrapper{
+  padding: 30px;
+}  
+
+.top-brands-cover{
+    height: 140px; 
+    width: 140px; 
+    border-radius: 50%;  
+    background-color: var(--primary-bg); 
+    box-shadow: var( --delivery-item-shadow); 
+    border: 0.5px solid var(--border-white);
+} 
+
+.top-brand-image { 
+    border-radius: 50%;  
+    height: 100%; 
+    width: 100%;  
+    cursor: pointer;
+}
+
+.brand-info{
+    margin-left: 30px; 
+    margin-top: 8px; 
+    font-weight: 600;
+}  
+.main-title{
+    margin-left: -25px;
+}
